@@ -27,6 +27,16 @@
     <artifactId>spring-context</artifactId>
     <version>5.3.24</version>
 </dependency>
+<<<<<<< HEAD
+=======
+
+  <dependency>
+    <groupId>javax.annotation</groupId>
+    <artifactId>javax.annotation-api</artifactId>
+    <version>1.3.2</version>
+</dependency>
+  
+>>>>>>> parent of da0f752 (Revert "pom and test class updated")
   
   
     <dependency>
